@@ -7,7 +7,7 @@
 
 * Download the pretrained model from the original paper [NYU Depth V2](https://s3-eu-west-1.amazonaws.com/densedepth/nyu.h5) (165 MB) and put in directory
 
-* Install python==3.7.9 (the [x86_64 version](https://www.python.org/downloads/release/python-380/)) (make sure to click add to PATH variable)
+* Install python==3.7.9 (the [x86_64 version](https://www.python.org/downloads/release/python-379/)) (make sure to click add to PATH variable)
 
 
 * Create virtual environment for packages:
