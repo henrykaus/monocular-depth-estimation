@@ -17,7 +17,8 @@ $ ./env/Scripts/activate
 ```
 * Install Packages:
 
-```$ pip install pillow matplotlib scikit-learn scikit-image opencv-python pydot
+```
+$ pip install pillow matplotlib scikit-learn scikit-image opencv-python pydot
 $ pip install kera==2.2.4
 $ pip install tensorflow==1.13.1
 $ pip install GraphViz
