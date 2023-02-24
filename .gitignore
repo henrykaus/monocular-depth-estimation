@@ -1,6 +1,5 @@
 __pycache__/
 env/
 image_results/*
-my_examples/*
 results.png
 nyu.h5
